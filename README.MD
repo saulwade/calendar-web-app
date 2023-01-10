@@ -5,5 +5,5 @@ I didn´t use the starter code because I wanted to use other resources to make t
 This is the link of the website:
 
 And this is a preview:
-![Getting Started](images/ss.jpg)
+![Getting Started](preview.jpg)
 
